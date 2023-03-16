@@ -33,6 +33,7 @@ export default function LapView({ laps }) {
                 }}
               >
                 {laps.length - index}
+                {/* Hello */}
               </Text>
               <Text
                 style={{
@@ -79,10 +80,8 @@ const styles = StyleSheet.create({
   },
   lapNum: {
     fontSize: 15,
-    textAlign: "center",
   },
   lapTime: {
     fontSize: 25,
-    textAlign: "center ",
   },
 });

@@ -40,7 +40,7 @@ export default function Stopwatch() {
     setLaps([]);
   };
 
-  const handleAddLap = () => {
+  const handleAddLap = (item) => {
     setLaps([time, ...laps]);
   };
 
