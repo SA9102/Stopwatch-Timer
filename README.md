@@ -4,7 +4,7 @@
 
 A React Native application with stopwatch and timer functionalities. You can also switch between light and dark mode.
 
-As this is my first React Native application, it is quite simple and even lacks some expected functionality, such as an alarm sound, and having the stopwatch/timer on when the app is minimised. ***There is even an issue where the stopwatch and timer are slightly slow.*** However, the goal of this project was not to create a perfect or complex application, but simply get a feel for the framework.
+As this is my first React Native application, it is quite simple and even lacks some expected functionality, such as an alarm sound, and having the stopwatch/timer on when the app is minimised. ***There is even an issue where the stopwatch and timer are slightly slow.*** However, the goal of this first project was not to create a perfect or complex application, but simply get a feel for the framework.
 
 ## Preview
 ![sample1aaa](https://user-images.githubusercontent.com/96877426/225738563-75a18892-6397-4f0f-992e-75c2b5f8d132.jpeg)
